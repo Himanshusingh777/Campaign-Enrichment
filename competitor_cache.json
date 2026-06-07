@@ -1,0 +1,1022 @@
+{
+  "golfallaccess.com": {
+    "competitor": "The Golf Channel",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Golf Media Platform",
+    "industry_confidence": "High"
+  },
+  "springtownisd.net": {
+    "competitor": "Aledo ISD",
+    "competitor_confidence": "Medium",
+    "industry_signal": "K-12 School District",
+    "industry_confidence": "High"
+  },
+  "accesseducation.com": {
+    "competitor": "MBA Admissions Consulting",
+    "competitor_confidence": "High",
+    "industry_signal": "MBA Admissions Consulting",
+    "industry_confidence": "High"
+  },
+  "knomation.com": {
+    "competitor": "BetterUp",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Talent Development Coaching",
+    "industry_confidence": "High"
+  },
+  "cobblersdirect.com": {
+    "competitor": "Cobblestone Shoe Repair",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Shoe Repair Services",
+    "industry_confidence": "High"
+  },
+  "lambentwittech.com": {
+    "competitor": "Talentify",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Full Cycle Recruitment",
+    "industry_confidence": "High"
+  },
+  "imagodeinsuranceadvisors.com": {
+    "competitor": "Christian Brothers Services",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Faith-Based Insurance",
+    "industry_confidence": "High"
+  },
+  "lotusschool.org": {
+    "competitor": "DSST Public Schools",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Charter School",
+    "industry_confidence": "High"
+  },
+  "legacykidsacademy.com": {
+    "competitor": "Bright Horizons Family Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Child Care Services",
+    "industry_confidence": "High"
+  },
+  "tamu.edu": {
+    "competitor": "University of Texas at Austin",
+    "competitor_confidence": "High",
+    "industry_signal": "Public Research University",
+    "industry_confidence": "High"
+  },
+  "prosperops.com": {
+    "competitor": "Apptio",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Cloud FinOps",
+    "industry_confidence": "High"
+  },
+  "ranchers.com": {
+    "competitor": "Major League Pickleball",
+    "competitor_confidence": "High",
+    "industry_signal": "Pickleball League",
+    "industry_confidence": "High"
+  },
+  "cafeto.co": {
+    "competitor": "EPAM Systems",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Nearshore Software Development",
+    "industry_confidence": "High"
+  },
+  "villageschoolnaples.org": {
+    "competitor": "Community School of Naples",
+    "competitor_confidence": "High",
+    "industry_signal": "Private K-12 Education",
+    "industry_confidence": "High"
+  },
+  "prodapt.com": {
+    "competitor": "Wipro",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Telecommunications IT Services",
+    "industry_confidence": "High"
+  },
+  "circle.ooo": {
+    "competitor": "Circle",
+    "competitor_confidence": "Low",
+    "industry_signal": "Community Platform",
+    "industry_confidence": "High"
+  },
+  "cooldowngames.com": {
+    "competitor": "Devolver Digital",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Indie Game Publishing",
+    "industry_confidence": "High"
+  },
+  "velostics.com": {
+    "competitor": "Yard Management Software",
+    "competitor_confidence": "High",
+    "industry_signal": "Yard Management Software",
+    "industry_confidence": "High"
+  },
+  "collbox.co": {
+    "competitor": "HighRadius",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AR Management Software",
+    "industry_confidence": "High"
+  },
+  "linkedin.com": {
+    "competitor": "JPMorgan Chase",
+    "competitor_confidence": "High",
+    "industry_signal": "Global Banking",
+    "industry_confidence": "High"
+  },
+  "lisd.net": {
+    "competitor": "Plano ISD",
+    "competitor_confidence": "High",
+    "industry_signal": "K-12 Education",
+    "industry_confidence": "High"
+  },
+  "blanketisd.org": {
+    "competitor": "Brownwood ISD",
+    "competitor_confidence": "Medium",
+    "industry_signal": "K-12 Education",
+    "industry_confidence": "High"
+  },
+  "lightedge.com": {
+    "competitor": "TierPoint",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Managed Hybrid Cloud",
+    "industry_confidence": "High"
+  },
+  "srbats.com": {
+    "competitor": "Warstic Baseball",
+    "competitor_confidence": "High",
+    "industry_signal": "Baseball Bat Manufacturing",
+    "industry_confidence": "High"
+  },
+  "cityofsouthlake.com": {
+    "competitor": "Town of Flower Mound Texas",
+    "competitor_confidence": "High",
+    "industry_signal": "Municipal Government",
+    "industry_confidence": "High"
+  },
+  "lgnetworksinc.com": {
+    "competitor": "Cisco",
+    "competitor_confidence": "Low",
+    "industry_signal": "Managed IT Services",
+    "industry_confidence": "High"
+  },
+  "austinisd.org": {
+    "competitor": "Houston Independent School District",
+    "competitor_confidence": "High",
+    "industry_signal": "Public School District",
+    "industry_confidence": "High"
+  },
+  "ussuccesscenter.com": {
+    "competitor": "National Speakers Association",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Corporate Education",
+    "industry_confidence": "High"
+  },
+  "wandaanalytics.com": {
+    "competitor": "Data Analytics Consulting",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Data Analytics",
+    "industry_confidence": "High"
+  },
+  "dfwitpartner.com": {
+    "competitor": "Verity IT Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Custom Software Development",
+    "industry_confidence": "High"
+  },
+  "mercuryhumanperformance.com": {
+    "competitor": "Peak Performance Training",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Human Performance Coaching",
+    "industry_confidence": "High"
+  },
+  "funnelscience.com": {
+    "competitor": "Adpearance",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Performance Marketing",
+    "industry_confidence": "High"
+  },
+  "ris3d.com": {
+    "competitor": "VR Vision",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Virtual Reality Simulators",
+    "industry_confidence": "High"
+  },
+  "gothams.com": {
+    "competitor": "Strategic Defense Consulting",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Crisis Response Infrastructure",
+    "industry_confidence": "High"
+  },
+  "integripayments.com": {
+    "competitor": "Square",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Merchant Services",
+    "industry_confidence": "High"
+  },
+  "reapcommerce.com": {
+    "competitor": "e-commerce growth agency",
+    "competitor_confidence": "High",
+    "industry_signal": "Ecommerce Growth",
+    "industry_confidence": "High"
+  },
+  "vaticgloballogistics.com": {
+    "competitor": "Stellar Global Logistics",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Freight Forwarding",
+    "industry_confidence": "High"
+  },
+  "careersoftusa.com": {
+    "competitor": "Apex Systems",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Staffing & Consulting",
+    "industry_confidence": "High"
+  },
+  "askslm.com": {
+    "competitor": "Shield AI",
+    "competitor_confidence": "Medium",
+    "industry_signal": "On-Premise AI",
+    "industry_confidence": "High"
+  },
+  "dreamersofday.co": {
+    "competitor": "Pixelate Digital",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Web Design & Development",
+    "industry_confidence": "High"
+  },
+  "premier-edu.com": {
+    "competitor": "International Student Exchange Programs",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Student Placement Services",
+    "industry_confidence": "High"
+  },
+  "tahp.org": {
+    "competitor": "Texas Association of Health Plans",
+    "competitor_confidence": "High",
+    "industry_signal": "Health Plan Advocacy",
+    "industry_confidence": "High"
+  },
+  "pasadenaisd.org": {
+    "competitor": "Houston Independent School District",
+    "competitor_confidence": "High",
+    "industry_signal": "K-12 Education",
+    "industry_confidence": "High"
+  },
+  "theteachersteacherllc.net": {
+    "competitor": "Curriculum Associates",
+    "competitor_confidence": "Medium",
+    "industry_signal": "K-12 Curriculum Development",
+    "industry_confidence": "High"
+  },
+  "tamus.edu": {
+    "competitor": "University of Texas System",
+    "competitor_confidence": "High",
+    "industry_signal": "University System",
+    "industry_confidence": "High"
+  },
+  "invasystems.com": {
+    "competitor": "Capgemini",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Industrial IoT",
+    "industry_confidence": "High"
+  },
+  "actonacademy.org": {
+    "competitor": "AltSchool",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Learner-Led Education",
+    "industry_confidence": "High"
+  },
+  "sparkstorm.ai": {
+    "competitor": "Dataiku",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AI-Powered Analytics",
+    "industry_confidence": "High"
+  },
+  "syngularitycyber.com": {
+    "competitor": "CyberSecOp",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Offensive Cyber Operations",
+    "industry_confidence": "High"
+  },
+  "swarmlens.com": {
+    "competitor": "DroneDeploy",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Drone Data Analytics",
+    "industry_confidence": "High"
+  },
+  "covehouse.org": {
+    "competitor": "Family Promise",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Homeless Shelter",
+    "industry_confidence": "High"
+  },
+  "virtualens.health": {
+    "competitor": "Oxford Medical Simulation",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Ophthalmology Simulation",
+    "industry_confidence": "High"
+  },
+  "concentricmarket.com": {
+    "competitor": "AnyLogic",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Agent-Based Modeling",
+    "industry_confidence": "High"
+  },
+  "owlchemylabs.com": {
+    "competitor": "Survios",
+    "competitor_confidence": "Medium",
+    "industry_signal": "VR Game Development",
+    "industry_confidence": "High"
+  },
+  "epcc.edu": {
+    "competitor": "Southwest University at El Paso",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Community College",
+    "industry_confidence": "High"
+  },
+  "alamoangels.com": {
+    "competitor": "Angel Capital Association",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Angel Investor Network",
+    "industry_confidence": "High"
+  },
+  "microgendx.com": {
+    "competitor": "Quest Diagnostics",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Molecular Diagnostics",
+    "industry_confidence": "High"
+  },
+  "xa3.com": {
+    "competitor": "Digital Adoption Platforms",
+    "competitor_confidence": "High",
+    "industry_signal": "Digital Adoption Platforms",
+    "industry_confidence": "High"
+  },
+  "bdi-insurance.com": {
+    "competitor": "State Farm Insurance Agent",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Insurance Brokerage",
+    "industry_confidence": "High"
+  },
+  "clickittech.com": {
+    "competitor": "Nearshore Technology Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "DevOps & Cloud Services",
+    "industry_confidence": "High"
+  },
+  "techvera.com": {
+    "competitor": "Prosumers",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Managed IT Services",
+    "industry_confidence": "High"
+  },
+  "meritechservices.com": {
+    "competitor": "TechSolutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Low Voltage Cabling",
+    "industry_confidence": "High"
+  },
+  "playintobeing.com": {
+    "competitor": "Creative Facilitation",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Creative Coaching",
+    "industry_confidence": "High"
+  },
+  "united.com": {
+    "competitor": "American Airlines",
+    "competitor_confidence": "High",
+    "industry_signal": "Global Airline",
+    "industry_confidence": "High"
+  },
+  "capitalone.com": {
+    "competitor": "Chase Bank",
+    "competitor_confidence": "High",
+    "industry_signal": "Consumer Banking",
+    "industry_confidence": "High"
+  },
+  "theafekt.co": {
+    "competitor": "Zenefits",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Employee Benefits Brokerage",
+    "industry_confidence": "High"
+  },
+  "pvam.edu": {
+    "competitor": "College Station ISD",
+    "competitor_confidence": "Medium",
+    "industry_signal": "K-12 Education",
+    "industry_confidence": "High"
+  },
+  "readyconsulting.co": {
+    "competitor": "ComplianceForge",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Compliance & Audit",
+    "industry_confidence": "High"
+  },
+  "germaniainsurance.com": {
+    "competitor": "Texas Farm Bureau Insurance",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Texas Insurance",
+    "industry_confidence": "High"
+  },
+  "letsplaysoccer.com": {
+    "competitor": "Oklahoma Soccer Association",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Youth Soccer Leagues",
+    "industry_confidence": "High"
+  },
+  "pureswinggolf.com": {
+    "competitor": "Topgolf",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Golf Instruction",
+    "industry_confidence": "High"
+  },
+  "soccercentralsa.com": {
+    "competitor": "Soccerbot 360",
+    "competitor_confidence": "High",
+    "industry_signal": "Soccer Training Technology",
+    "industry_confidence": "High"
+  },
+  "vaultsportshq.com": {
+    "competitor": "Prophet Exchange",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Sports Betting Technology",
+    "industry_confidence": "High"
+  },
+  "upstart.com": {
+    "competitor": "LendingClub",
+    "competitor_confidence": "High",
+    "industry_signal": "Consumer Lending Platform",
+    "industry_confidence": "High"
+  },
+  "madrev.co": {
+    "competitor": "Revcontent",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Native Advertising Platform",
+    "industry_confidence": "High"
+  },
+  "dbatlubbock.com": {
+    "competitor": "Baseball Training Facility",
+    "competitor_confidence": "High",
+    "industry_signal": "Baseball Training",
+    "industry_confidence": "High"
+  },
+  "ecopulsenow.com": {
+    "competitor": "GHGSat",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Methane Emission Analytics",
+    "industry_confidence": "High"
+  },
+  "ptg.com": {
+    "competitor": "Apex Systems",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Staff Augmentation",
+    "industry_confidence": "High"
+  },
+  "speetch.ai": {
+    "competitor": "Deepgram",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AI Meeting Intelligence",
+    "industry_confidence": "High"
+  },
+  "eleventhdimensionsolutions.com": {
+    "competitor": "Capgemini",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Integration Consulting",
+    "industry_confidence": "High"
+  },
+  "jbncapital.com": {
+    "competitor": "Lument Finance",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Commercial Real Estate Lending",
+    "industry_confidence": "High"
+  },
+  "buzzclan.in": {
+    "competitor": "Cognizant",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AI Workforce Solutions",
+    "industry_confidence": "High"
+  },
+  "fourcornersinc.com": {
+    "competitor": "Aristocrat Gaming",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Casino Game Development",
+    "industry_confidence": "High"
+  },
+  "gobenefits.com": {
+    "competitor": "Zenefits",
+    "competitor_confidence": "High",
+    "industry_signal": "Benefits Administration",
+    "industry_confidence": "High"
+  },
+  "sprsoftwaresystems.com": {
+    "competitor": "Cognizant",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Custom Software Development",
+    "industry_confidence": "High"
+  },
+  "driveinfluencegroup.com": {
+    "competitor": "Influence Marketing Agency",
+    "competitor_confidence": "High",
+    "industry_signal": "Influencer Marketing",
+    "industry_confidence": "High"
+  },
+  "laketravischristianacademy.com": {
+    "competitor": "Regent Preparatory School of Oklahoma",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Faith-based K-12 Education",
+    "industry_confidence": "High"
+  },
+  "fringesport.com": {
+    "competitor": "Rogue Fitness",
+    "competitor_confidence": "High",
+    "industry_signal": "Fitness Equipment",
+    "industry_confidence": "High"
+  },
+  "caldwellisd.net": {
+    "competitor": "Bryan ISD",
+    "competitor_confidence": "Medium",
+    "industry_signal": "K-12 School District",
+    "industry_confidence": "High"
+  },
+  "pelotero.com": {
+    "competitor": "GameChanger",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Baseball Development Software",
+    "industry_confidence": "High"
+  },
+  "youareallstars.com": {
+    "competitor": "Topps",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Sports Trading Cards",
+    "industry_confidence": "High"
+  },
+  "traxcontents.com": {
+    "competitor": "Claims Management Software",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Insurance Claims",
+    "industry_confidence": "High"
+  },
+  "microteklearning.com": {
+    "competitor": "Global Knowledge",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Certification Training",
+    "industry_confidence": "High"
+  },
+  "gcrai.ai": {
+    "competitor": "AI Ethics Institute",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AI Governance",
+    "industry_confidence": "High"
+  },
+  "defenseangels.com": {
+    "competitor": "Defense Technology Ventures",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Defense Tech VC",
+    "industry_confidence": "High"
+  },
+  "jbtutoring.com": {
+    "competitor": "Austin Tutoring",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Tutoring Service",
+    "industry_confidence": "High"
+  },
+  "neurongarage.com": {
+    "competitor": "Camp Invention",
+    "competitor_confidence": "Medium",
+    "industry_signal": "STEAM Summer Camp",
+    "industry_confidence": "High"
+  },
+  "premierresourcing.co.uk": {
+    "competitor": "The Curve Group",
+    "competitor_confidence": "Medium",
+    "industry_signal": "PR & Communications Recruitment",
+    "industry_confidence": "High"
+  },
+  "theprepschools.com": {
+    "competitor": "The Little Gym",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Early Childhood Education",
+    "industry_confidence": "High"
+  },
+  "talentmatchgroup.com": {
+    "competitor": "TalentBridge",
+    "competitor_confidence": "Medium",
+    "industry_signal": "SAP Staffing",
+    "industry_confidence": "High"
+  },
+  "aai-services.com": {
+    "competitor": "Cognizant",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Intelligent Process Automation",
+    "industry_confidence": "High"
+  },
+  "clutchsportz.com": {
+    "competitor": "Betr",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Sports Betting Platform",
+    "industry_confidence": "High"
+  },
+  "magnifyai.com": {
+    "competitor": "Agentic AI Consulting",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Agentic AI Integration",
+    "industry_confidence": "High"
+  },
+  "exittechnologies.com": {
+    "competitor": "Iron Mountain",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Asset Disposition",
+    "industry_confidence": "High"
+  },
+  "wellonsconstruction.com": {
+    "competitor": "Coastal Carolina Construction",
+    "competitor_confidence": "Medium",
+    "industry_signal": "General Contracting",
+    "industry_confidence": "High"
+  },
+  "3x360.com": {
+    "competitor": "Elite Hoops Basketball",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Basketball Training",
+    "industry_confidence": "High"
+  },
+  "qalam.institute": {
+    "competitor": "Bayyinah Institute",
+    "competitor_confidence": "High",
+    "industry_signal": "Islamic Education",
+    "industry_confidence": "High"
+  },
+  "action1.com": {
+    "competitor": "Automox",
+    "competitor_confidence": "High",
+    "industry_signal": "Endpoint Security",
+    "industry_confidence": "High"
+  },
+  "geomotiv.com": {
+    "competitor": "Adtech Software Development",
+    "competitor_confidence": "High",
+    "industry_signal": "Adtech Software Development",
+    "industry_confidence": "High"
+  },
+  "nerdomo.com": {
+    "competitor": "Tech Talent Acquisition",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Tech Staffing",
+    "industry_confidence": "High"
+  },
+  "omnirises.com": {
+    "competitor": "AI Consulting Services",
+    "competitor_confidence": "Medium",
+    "industry_signal": "AI Product Development",
+    "industry_confidence": "High"
+  },
+  "amazon.com": {
+    "competitor": "Google Cloud Platform",
+    "competitor_confidence": "High",
+    "industry_signal": "Cloud Infrastructure",
+    "industry_confidence": "High"
+  },
+  "harpermediagroup.com": {
+    "competitor": "SEO Consulting",
+    "competitor_confidence": "High",
+    "industry_signal": "Technical SEO Consulting",
+    "industry_confidence": "High"
+  },
+  "ufcsc.org": {
+    "competitor": "College Advising Corps",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Educational Equity",
+    "industry_confidence": "High"
+  },
+  "high5leadership.com": {
+    "competitor": "The Leadership Program",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Leadership Development",
+    "industry_confidence": "High"
+  },
+  "jubileecenter.org": {
+    "competitor": "The Senior Source",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Community Development",
+    "industry_confidence": "High"
+  },
+  "dts.edu": {
+    "competitor": "Fuller Theological Seminary",
+    "competitor_confidence": "High",
+    "industry_signal": "Theological Education",
+    "industry_confidence": "High"
+  },
+  "intraxinc.com": {
+    "competitor": "Cultural Exchange Programs",
+    "competitor_confidence": "High",
+    "industry_signal": "International Education Exchange",
+    "industry_confidence": "High"
+  },
+  "groundbreakermarketing.com": {
+    "competitor": "Momentum Marketing",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Digital Marketing Agency",
+    "industry_confidence": "High"
+  },
+  "adaptiveinsurance.com": {
+    "competitor": "Lemonade Insurance",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Parametric Insurance",
+    "industry_confidence": "High"
+  },
+  "pwc.com": {
+    "competitor": "Deloitte Italy",
+    "competitor_confidence": "High",
+    "industry_signal": "Professional Services",
+    "industry_confidence": "High"
+  },
+  "sageinformatics.co.in": {
+    "competitor": "Infosys BPM",
+    "competitor_confidence": "Medium",
+    "industry_signal": "ERP & Business Process Automation",
+    "industry_confidence": "High"
+  },
+  "rotobrush.com": {
+    "competitor": "DuctMedic",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Air Duct Cleaning Equipment",
+    "industry_confidence": "High"
+  },
+  "interlinked.com.au": {
+    "competitor": "Telstra Enterprise",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Managed IT & Telecom",
+    "industry_confidence": "High"
+  },
+  "epsoftinc.com": {
+    "competitor": "UiPath",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Intelligent Automation",
+    "industry_confidence": "High"
+  },
+  "fosaatx.org": {
+    "competitor": "St. Andrew's Episcopal School",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Private K-12 Education",
+    "industry_confidence": "High"
+  },
+  "klmckinney.com": {
+    "competitor": "Legal IT Consulting",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Legal Technology Consulting",
+    "industry_confidence": "High"
+  },
+  "perpetualsystems.com": {
+    "competitor": "Varonis",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Data Security",
+    "industry_confidence": "High"
+  },
+  "pittsburgisd.net": {
+    "competitor": "Mount Pleasant ISD",
+    "competitor_confidence": "High",
+    "industry_signal": "Public School District",
+    "industry_confidence": "High"
+  },
+  "bluerockresources.com": {
+    "competitor": "Apex Systems",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Staffing & Recruitment",
+    "industry_confidence": "High"
+  },
+  "newmathdata.com": {
+    "competitor": "Databricks",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Data Engineering & AI",
+    "industry_confidence": "High"
+  },
+  "blinn.edu": {
+    "competitor": "Austin Community College District",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Community College",
+    "industry_confidence": "High"
+  },
+  "revifyco.com": {
+    "competitor": "Revenue Operations Consulting",
+    "competitor_confidence": "High",
+    "industry_signal": "Revenue Operations Consulting",
+    "industry_confidence": "High"
+  },
+  "thatch.ai": {
+    "competitor": "Buildkite",
+    "competitor_confidence": "Medium",
+    "industry_signal": "CI/CD Platform",
+    "industry_confidence": "High"
+  },
+  "hillcountryaquatics.com": {
+    "competitor": "Austin Aquatics & Health",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Swim School",
+    "industry_confidence": "High"
+  },
+  "cityeducationpartners.org": {
+    "competitor": "NewSchools Venture Fund",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Education Non-profit",
+    "industry_confidence": "High"
+  },
+  "avocadova.com": {
+    "competitor": "Virtual Staff Finder",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Virtual Assistant Staffing",
+    "industry_confidence": "High"
+  },
+  "tquila-automation.com": {
+    "competitor": "Cognizant",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Intelligent Automation",
+    "industry_confidence": "High"
+  },
+  "beyondidentity.com": {
+    "competitor": "Okta",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Identity Security",
+    "industry_confidence": "High"
+  },
+  "utexas.edu": {
+    "competitor": "Texas A&M University",
+    "competitor_confidence": "High",
+    "industry_signal": "Public University",
+    "industry_confidence": "High"
+  },
+  "charlotteisd.org": {
+    "competitor": "Edna ISD",
+    "competitor_confidence": "Medium",
+    "industry_signal": "School District",
+    "industry_confidence": "High"
+  },
+  "tealpot.com": {
+    "competitor": "Wonolo",
+    "competitor_confidence": "High",
+    "industry_signal": "Blue-Collar Gig Marketplace",
+    "industry_confidence": "High"
+  },
+  "amitytech.com": {
+    "competitor": "Agri-Tech Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Agricultural Harvesting Solutions",
+    "industry_confidence": "High"
+  },
+  "groundupinsure.com": {
+    "competitor": "Texas Flood Insurance Agency",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Specialty Insurance Brokerage",
+    "industry_confidence": "High"
+  },
+  "villescas.org": {
+    "competitor": "Grant Writing Services",
+    "competitor_confidence": "High",
+    "industry_signal": "Grant Writing Consulting",
+    "industry_confidence": "High"
+  },
+  "houstonisd.org": {
+    "competitor": "Dallas ISD",
+    "competitor_confidence": "High",
+    "industry_signal": "K-12 Education",
+    "industry_confidence": "High"
+  },
+  "littleoaksela.com": {
+    "competitor": "The Goddard School",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Early Childhood Education",
+    "industry_confidence": "High"
+  },
+  "ctapult.com": {
+    "competitor": "Synnex Corporation",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Hardware Distribution",
+    "industry_confidence": "High"
+  },
+  "southrivertech.com": {
+    "competitor": "Globalscape",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Managed File Transfer",
+    "industry_confidence": "High"
+  },
+  "solutionsbyenigma.com": {
+    "competitor": "TechGen Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "IT Consulting",
+    "industry_confidence": "High"
+  },
+  "steveandstevenslawn.com": {
+    "competitor": "Green Thumb Landscaping",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Lawn Care Services",
+    "industry_confidence": "High"
+  },
+  "emlerswimandgym.com": {
+    "competitor": "Goldfish Swim School",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Swim Instruction",
+    "industry_confidence": "High"
+  },
+  "baseplanning.co": {
+    "competitor": "Financial Planning Software",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Financial Planning",
+    "industry_confidence": "High"
+  },
+  "1of1agency.com": {
+    "competitor": "Athlete Transfer Solutions",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Athlete NIL Consulting",
+    "industry_confidence": "High"
+  },
+  "sterlingsolutions.co.uk": {
+    "competitor": "The Marketing Store Worldwide",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Integrated Marketing Services",
+    "industry_confidence": "High"
+  },
+  "ideapublicschools.org": {
+    "competitor": "KIPP Public Schools",
+    "competitor_confidence": "High",
+    "industry_signal": "Charter School Network",
+    "industry_confidence": "High"
+  },
+  "stellarvirtual.org": {
+    "competitor": "K12 Inc.",
+    "competitor_confidence": "High",
+    "industry_signal": "Virtual K-12 Education",
+    "industry_confidence": "High"
+  },
+  "lyris.com": {
+    "competitor": "Constant Contact",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Email Marketing Automation",
+    "industry_confidence": "High"
+  },
+  "fatbearagency.com": {
+    "competitor": "The Influence Agency",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Influencer Marketing",
+    "industry_confidence": "High"
+  },
+  "redriverculturaldistrict.org": {
+    "competitor": "Austin Music Foundation",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Music District Management",
+    "industry_confidence": "High"
+  },
+  "spotlightsets.com": {
+    "competitor": "Stagecraft Studios",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Theater Set Design",
+    "industry_confidence": "High"
+  },
+  "tjc.edu": {
+    "competitor": "Kilgore College",
+    "competitor_confidence": "High",
+    "industry_signal": "Community College",
+    "industry_confidence": "High"
+  },
+  "bingonomics.com": {
+    "competitor": "GameDev Analytics",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Game Analytics",
+    "industry_confidence": "High"
+  },
+  "sanjac.org": {
+    "competitor": "Amarillo Christian School",
+    "competitor_confidence": "High",
+    "industry_signal": "Christian School",
+    "industry_confidence": "High"
+  },
+  "eliostalent.com": {
+    "competitor": "Robert Half Technology",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Tech Staffing",
+    "industry_confidence": "High"
+  },
+  "apexsites.com": {
+    "competitor": "Black Diamond Structures",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Temporary Infrastructure Solutions",
+    "industry_confidence": "High"
+  },
+  "hxplabs.com": {
+    "competitor": "Cognite",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Industrial Automation AI",
+    "industry_confidence": "High"
+  },
+  "crossroadsic.com": {
+    "competitor": "Accenture Federal Services",
+    "competitor_confidence": "Medium",
+    "industry_signal": "Public Sector IT Consulting",
+    "industry_confidence": "High"
+  },
+  "southtexascollege.edu": {
+    "competitor": "Texas State Technical College",
+    "competitor_confidence": "High",
+    "industry_signal": "Community College",
+    "industry_confidence": "High"
+  },
+  "houstontexans.com": {
+    "competitor": "Dallas Cowboys",
+    "competitor_confidence": "High",
+    "industry_signal": "NFL Team",
+    "industry_confidence": "High"
+  }
+}
