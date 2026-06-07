@@ -12,6 +12,58 @@ import streamlit as st
 
 st.set_page_config(page_title="Gemini Enrichment", layout="wide")
 
+# =====================================================
+# LOGIN SYSTEM
+# =====================================================
+
+VALID_EMAIL = "himanshu.singh@frugaltestingin.com"
+VALID_PASSWORD = "himanshu@2026"
+
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+
+if not st.session_state.logged_in:
+    st.markdown(
+        """
+        <style>
+        .login-box {
+            max-width: 420px;
+            margin: 80px auto;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+            background: #fff;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.markdown("<h2 style='text-align:center;'>🔐 Login</h2>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align:center; color:gray;'>Gemini CSV Enrichment Tool</p>", unsafe_allow_html=True)
+    st.markdown("---")
+
+    email = st.text_input("📧 Email", placeholder="Enter your email")
+    password = st.text_input("🔑 Password", type="password", placeholder="Enter your password")
+
+    if st.button("Login", use_container_width=True):
+        if email == VALID_EMAIL and password == VALID_PASSWORD:
+            st.session_state.logged_in = True
+            st.rerun()
+        else:
+            st.error("❌ Invalid email or password. Please try again.")
+
+    st.stop()
+
+# =====================================================
+# LOGGED IN — Show logout option
+# =====================================================
+
+with st.sidebar:
+    st.markdown(f"👤 **{VALID_EMAIL}**")
+    if st.button("🚪 Logout"):
+        st.session_state.logged_in = False
+        st.rerun()
+
 st.title("Gemini CSV Enrichment")
 
 uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
